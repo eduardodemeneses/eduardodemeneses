@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @eduardodemeneses
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning more about golang and ML
+- 📫 How to reach me: ping me on slack 😊
